@@ -332,7 +332,7 @@
         "greeting_afternoon": "Добрый день",
         "greeting_evening": "Добрый вечер",
         "greeting_back": "С возвращением",
-        "banner": "AVR майнер Duino-Coin modified by Dechimmo. Все права по прежнему принадлежат разработчику Duino-Coin© ",
+        "banner": "AVR майнер Duino-Coin modified by Dechimmo and HW. Все права по прежнему принадлежат разработчику Duino-Coin© ",
         "avr_on_port": "AVR плата(ы) на порте(ах): ",
         "algorithm": "Алгоритм: ",
         "rig_identifier": "Идентификатор устройства: ",
